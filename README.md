@@ -1,10 +1,29 @@
-# metro-system-eda
-Exploratory Data Analysis of global metro systems dataset using Python, Pandas, Matplotlib and Seaborn.
+# Metro Systems Exploratory Data Analysis
 
-![Paiplot of all columns] (images/pairplot.png)
+This project performs Exploratory Data Analysis (EDA) on a dataset of metro systems around the world.
 
-![Paiplot of all columns2] (images/pairplot2.png)
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
-![Regplot of all columns] (images/regplot.png)
+## Dataset Features
+- city
+- country
+- stations
+- length_km
+- annual_ridership_mill
+- region
 
-![Regplot of all columns2] (images/regplot2.png)
+## Analysis Performed
+- Distribution of metro stations
+- Region-wise metro systems
+- Correlation analysis
+- Outlier detection using boxplots
+- Ridership vs station analysis
+
+## Key Insights
+- Asian metro systems dominate in station counts
+- Larger metro networks tend to have higher ridership
+- Strong correlation between network length and station count
